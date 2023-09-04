@@ -1,1 +1,1 @@
-# Analysis-of-the-Titanic-Dataset
+# Analysis of the Titanic Dataset: Predicting Passenger Survival
