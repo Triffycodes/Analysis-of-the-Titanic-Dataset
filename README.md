@@ -1,5 +1,5 @@
 
-###Click on this link:
+
 [Project Link](https://triffycodes.github.io/Analysis-of-the-Titanic-Dataset/)
 
 
